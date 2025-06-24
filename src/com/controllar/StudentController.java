@@ -9,7 +9,6 @@ public class StudentController {
 	public static void  main(String[] args)throws Exception {
 	Scanner sc =new Scanner(System.in);
 	  StudentService p=new StudentService();
-
 	   while (true) {
 	    System.out.println("\nSelect an operation:");
 	    System.out.println("1. Add Student");
